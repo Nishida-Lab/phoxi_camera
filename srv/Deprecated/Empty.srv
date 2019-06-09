@@ -1,4 +1,3 @@
 ---
-string hardware_identification
 string message
 bool success

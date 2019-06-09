@@ -41,3 +41,9 @@ gen
 doc/
 
 *.autosave
+
+# Tests
+.cache/
+*.pyc
+
+cmake-build-debug/
